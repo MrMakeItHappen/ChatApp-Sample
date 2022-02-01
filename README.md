@@ -6,5 +6,5 @@ A basic SwiftUI Chat App
 - One to one messaging
 - Swipe Actions
 - Date Formatting
-- Filtering messages via Search Bar
-- Floating toolbar
+- Filtering messages
+- Customizable floating toolbar
