@@ -9,4 +9,4 @@ A basic SwiftUI Chat App
 - Filtering messages
 - Customizable floating toolbar
 
-![Screenshots](https://user-images.githubusercontent.com/14360035/151994928-aa7f8a07-f62d-4c03-8084-67175be138fb.png)
+![Screenshots](https://user-images.githubusercontent.com/14360035/151995405-94dd3c5b-62b8-4695-933e-78a1188d3584.png)
